@@ -1,16 +1,20 @@
-![Public Beta banner](https://github.com/e-id-admin/eidch-public-beta/blob/main/assets/github-banner-publicbeta.jpg)
+# DEPRECATED
+
+For the upcoming launch of the swiyu Public Beta Trust Infrastructure we created a new organisation [swiyu-admin-ch](https://github.com/swiyu-admin-ch). 
+
+**⚠️ PARTLY OUTDATED ⚠️**
+
+*Users must not use this library to create new DIDs, as they won't be compatible.*
+
+This project has been superseded by [DID Toolbox](https://github.com/swiyu-admin-ch/didtoolbox-java). Parts of this library are still required by [DID Resolver](https://github.com/e-id-admin/didresolver). This library will vanish in the near future, and the required parts will be relocated to Resolver.
+
+
 
 # DID toolbox
 
 An official Swiss Government project made by
 the [Federal Office of Information Technology, Systems and Telecommunication FOITT](https://www.bit.admin.ch/)
 as part of the electronic identity (e-ID) project.
-
-**⚠️ PARTLY OUTDATED ⚠️**
-
-*Users must not use this library to create new DIDs, as they won't be compatible.*
-
-This project has been superseded by [DID Toolbox](https://github.com/e-id-admin/didtoolbox-java). Parts of this library are still required by [DID Resolver](https://github.com/e-id-admin/didresolver). This library will vanish in the near future, and the required parts will be relocated to Resolver.
 
 ## Using the library
 
